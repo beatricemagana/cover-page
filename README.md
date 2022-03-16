@@ -1,5 +1,4 @@
 # Cover Langing Page
-```
 
 ## Overview
 
