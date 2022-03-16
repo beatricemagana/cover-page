@@ -1,20 +1,20 @@
 # Cover Langing Page
 
-## Overview
+### Overview
 
 
-### Links
+#### Links
 - Solution URL: 
 - Live Site URL: currently private repo
 
-### My process
+#### My process
 -
 
-### Built with
+#### Built with
 - 
 
-### What I learned
+#### What I learned
 -
 
-### Author
+#### Author
 [Beatrice Magaña](https://www.linkedin.com/in/beatricemagana/) | [Website](https://www.beatricemagana.com/)
