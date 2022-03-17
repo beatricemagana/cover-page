@@ -36,7 +36,7 @@ button {
     width: 50%;
     height: 2.5em;
     background-color: #fff0f0;
-    border: 0;
+    border: 1px solid #b18597;
     border-radius: 0.75em;
     text-transform: uppercase;
     transform-style: preserve-3d;
@@ -54,18 +54,17 @@ button::before {
     height: 100%;
     border-radius: inherit;
     background-color: #f9c4d2;
-    box-shadow: 0 0 0 2x #b18597, 0 .625em 00 #ffe3e2;
+    box-shadow: 0 #b18597, 0 .625em 0 0 rgba(247, 224, 223, 0.699);
     transform: translate3d(0, .75em, -1em);
     transition: .15s cubic-bezier(0,0,.6,1);
 }
 
 button:hover {
     background-color: #ffe9e9;
-    transform: translate(0, .25em);
+    transform: translate(0, .15em);
 }
 
 button:hover::before{
-    box-shadow: 0 0 0 2px #c5aee0, 0 .5em 0 0 #ffe3e2;
     transform: translate3d(0, .5em, -1em);
 }
 
